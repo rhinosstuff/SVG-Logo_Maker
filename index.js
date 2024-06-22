@@ -8,7 +8,7 @@ function writeToFile(fileName, data) {
   const logo = shapes(data)
   
   fs.writeFile(fileName, logo, (err) =>
-    err ? console.log(err) : console.log('Success!')
+    err ? console.log(err) : console.log(`Generated ${data.text}_logo.svg`)
   )
 }
 
