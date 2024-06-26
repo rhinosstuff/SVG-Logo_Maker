@@ -31,9 +31,8 @@
   >
   >*** **[Video Link Demonstration](https://watch.screencastify.com/v/1Z983LE1x0dIhTCOJxSV)** ***
 
-  Image examples of what to expect.
-  <img src="images/svgLogo.png" width="800">\
-  <img src="images/npmTest.png" width="600">
+  Image example of what to expect.\
+  <img src="images/svgLogo.png" width="800">
 
   ## License
   This project is licensed under the **[MIT](./LICENSE)** license.
@@ -46,6 +45,9 @@
   ```    
   npm test
   ```
+  Image example of what to expect.\
+  <img src="images/npmTest.png" width="600">
+  
   ## Questions
   If you have any questions about the repo, open an issue or contact me directly at **rhinosstuff@gmail.com**.
   
