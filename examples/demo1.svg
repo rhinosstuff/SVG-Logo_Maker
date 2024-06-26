@@ -1,10 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+    width="100%" height="100%"
+    viewBox="0 0 300 200">
 
-<svg viewBox="0 0 300 200"
-     width="100%" height="100%" 
-     xmlns="http://www.w3.org/2000/svg">
+  <polygon points="150,20 40,180 260,180" fill="red" />
 
-  <polygon points="150,20 20,180 280,180" fill="red" />
-
-  <text x="150" y="145.75" font-size="45" text-anchor="middle" fill="white">WWW</text>
+  <text x="150" y="123" font-size="35" text-anchor="middle" fill="black">WWW</text>
 
 </svg>
